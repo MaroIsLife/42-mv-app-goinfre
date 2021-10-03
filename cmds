@@ -1,3 +1,7 @@
 lsof | grep ~/
 sh mv_to_goinfre.sh /Users/mougnou/Library/Application\ Support/Firefox
 sh mv_to_goinfre.sh /Users/mougnou/Library/Application\ Support/Code
+
+
+sh fix_goinfre_links.sh /Users/mougnou/Library/Application\ Support/Firefox
+sh fix_goinfre_links.sh /Users/mougnou/Library/Application\ Support/Code
